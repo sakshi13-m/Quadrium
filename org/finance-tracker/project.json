@@ -1,0 +1,9 @@
+{
+  "name": "finance-tracker",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "finance-tracker/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project finance-tracker --web",
+  "targets": {}
+}
