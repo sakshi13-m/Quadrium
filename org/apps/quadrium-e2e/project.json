@@ -1,0 +1,10 @@
+{
+  "name": "quadrium-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/quadrium-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["quadrium"],
+  "// targets": "to see all targets run: nx show project quadrium-e2e --web",
+  "targets": {}
+}
